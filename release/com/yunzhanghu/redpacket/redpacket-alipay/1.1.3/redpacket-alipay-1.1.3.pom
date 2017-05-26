@@ -6,4 +6,12 @@
   <artifactId>redpacket-alipay</artifactId>
   <version>1.1.3</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>ChatDemoRedPacket</groupId>
+      <artifactId>RedPacketSDK</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
