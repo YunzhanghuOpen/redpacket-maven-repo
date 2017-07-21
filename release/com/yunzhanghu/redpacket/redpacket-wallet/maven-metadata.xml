@@ -3,12 +3,13 @@
   <groupId>com.yunzhanghu.redpacket</groupId>
   <artifactId>redpacket-wallet</artifactId>
   <versioning>
-    <release>3.5.0</release>
+    <release>3.5.1</release>
     <versions>
       <version>3.4.5</version>
       <version>3.4.6</version>
       <version>3.5.0</version>
+      <version>3.5.1</version>
     </versions>
-    <lastUpdated>20170617044422</lastUpdated>
+    <lastUpdated>20170721072932</lastUpdated>
   </versioning>
 </metadata>
